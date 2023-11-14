@@ -1,0 +1,13 @@
+
+    {
+        "name": "sample-node-app",
+        "version": "1.0.0",
+        "description": "A sample Node.js application",
+        "scripts": {
+            "build": "echo 'Building step here'",
+            "test": "echo 'Testesting step here'",
+            "deploy": "echo 'Deploying step here'"
+        },
+        "author": "Krage",
+        "license": "ISC"
+    }
